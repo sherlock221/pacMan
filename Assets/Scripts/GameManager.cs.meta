@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f0a646432e81463b81812bbf472e5cf
+timeCreated: 1522571773
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PacMan: {fileID: 1175788353033410, guid: c770c53a5e9ee48288cb9b5bf95b91f5, type: 2}
+  - Blinky: {fileID: 1064999507825784, guid: 56ccbbf793f204e21a035b6fe0d48319, type: 2}
+  - Clyde: {fileID: 1369182277398106, guid: 198166d5c7c5a4acd96678f62e5a0942, type: 2}
+  - Inky: {fileID: 1681744024265212, guid: 9c831ac568b134b73aa93e9430932ba5, type: 2}
+  - Pinky: {fileID: 1944620819596562, guid: a3d4c5c20c78545ceb5140ef3c4d7d06, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
